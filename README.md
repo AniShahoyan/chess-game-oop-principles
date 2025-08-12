@@ -1,2 +1,2 @@
-# chess-game-oop-principles
-dsa
+# chess-game-learning-oop-principles
+A simplified, console-based chess game built in Python for my Programming for Data Science course. Implements OOP principles with classes for King, Queen, and Knight, each showing valid moves. Includes features for adding/removing pieces, displaying the board, and an interactive gameplay mode with random piece distribution, turn order, and dynamic board updates until one player has no pieces left.
